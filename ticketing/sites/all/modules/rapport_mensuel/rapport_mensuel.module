@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the rapport mensuel feature.
+ */
+
+include_once 'rapport_mensuel.features.inc';
